@@ -37,4 +37,3 @@ while True:
    ```bash  python guess.py
 
 
-You have not added the algorithm step by step instructions. The task is not about adding the exact code. It is about adding what will happen and how the algorithm is going to do it
